@@ -1,3 +1,3 @@
 # TODO APP
-## Example program for learning Laravel
+## Example App for learning Laravel
 TODO APP with CRUD Functions
